@@ -1,0 +1,4 @@
+var prompt
+var savePoint
+getarg 0 prompt
+getarg 1 savePoint
